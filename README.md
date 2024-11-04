@@ -1,5 +1,3 @@
-<h1 align=center style="color:#7952B3">Hello, Welcome To My Github Profile I'm Kerim ⭐ </h1>
-
 <h3 align=center style="color:#7952B3">IT ENGINEER STUDENT / FULL STACK DEVELOPMENT</h2>
 <h4 align=center style="color:#7952B3">Languages and Tools:</h2>
 
