@@ -48,19 +48,6 @@
 
 ---
 
-## 💼 Projects
-
-<!-- Burada öne çıkan projelerinizi ekleyebilirsiniz -->
-<div align="center">
-  <a href="https://github.com/KerimKulah/qr-product-tracking-decision-support-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerimkulah&repo=qr-product-tracking-decision-support-system&theme=react" />
-  </a>
-  <a href="https://github.com/KerimKulah/JDK-Selector">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerimkulah&repo=JDK-Selector&theme=react" />
-  </a>
-</div>
-
----
 
 <div align="center">
   
