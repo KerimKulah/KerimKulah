@@ -1,29 +1,88 @@
-<h3 align=center style="color:#7952B3">IT ENGINEER STUDENT / FULL STACK DEVELOPMENT</h2>
-<h4 align=center style="color:#7952B3">Languages and Tools:</h2>
+# <div align="center">👨‍💻 Kerim Kulah</div>
 
-<div align=center>
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/184143/java.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="nodejs" width="40" height="40"/> </a>  
-<a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40"  height="40" /> </a>
-</div>
-<br>
-<div align=center>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" alt="spring" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a> 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://mui.com/material-ui/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/761/513/png-transparent-material-ui-logo.png" alt="metarialui" width="40" height="40"/></a> 
+<div align="center">
+  <h3>💻 Full Stack Developer | IT Engineer Student 💻</h3>
 </div>
 
-------
-<h3 align="left" style="color:#7952B3">Social:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/kerimkulah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kerimkulah" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/kerimkulah">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
 </p>
 
-------
+---
 
-<div align=center><img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkulah&show_icons=true&locale=en&layout=compact" alt="kerimkulah" /></div>
-<br>
+## 🛠️ Tech Stack
 
+<div align="center">
+  
+  ### Backend
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  
+  ### Frontend
+  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  
+  ### DevOps & Tools
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkulah&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimkulah&theme=react" alt="GitHub Streak" />
+</div>
+
+---
+
+## 💼 Projects
+
+<!-- Burada öne çıkan projelerinizi ekleyebilirsiniz -->
+<div align="center">
+  <a href="https://github.com/KerimKulah/qr-product-tracking-decision-support-system">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerimkulah&repo=qr-product-tracking-decision-support-system&theme=react" />
+  </a>
+  <a href="https://github.com/KerimKulah/JDK-Selector">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=kerimkulah&repo=JDK-Selector&theme=react" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  
+  ### 🌱 I'm currently learning ...
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+  
+</div>
+
+<div align="center">
+  
+  ### 👀 Profile views
+  <img src="https://komarev.com/ghpvc/?username=kerimkulah&style=flat-square&color=blue" alt="Profile views" />
+  
+</div>
+
+<div align="center">
+  <h3>📫 How to reach me</h3>
+  <p>
+    <!-- E-posta adresinizi buraya ekleyebilirsiniz -->
+    <a href="mailto:kerimkulah@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
