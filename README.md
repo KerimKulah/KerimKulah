@@ -1,7 +1,7 @@
 # <div align="center">👨‍💻 Kerim Kulah</div>
 
 <div align="center">
-  <h3>💻 Full Stack Developer | IT Engineer Student 💻</h3>
+  <h3>💻 Full Stack Developer | IT Engineer  💻</h3>
 </div>
 
 <p align="center">
