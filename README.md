@@ -1,84 +1,80 @@
-# <div align="center">👨‍💻 Kerim Kulah</div>
-
 <div align="center">
-  <h3>💻 Full Stack Software Developer 💻</h3>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B42F4&height=260&section=header&text=Kerim%20Kulah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer&descAlignY=60&descSize=25&fontColor=ffffff"/>
 </div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/kerimkulah">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <a href="https://linkedin.com/in/kerimkulah" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-</p>
+  <a href="mailto:kerimkulah@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+  </a>
+</div>
 
----
+<br/>
 
-## 🛠️ Tech Stack
+<div align="center">
+<table>
+  <tr>
+    <td width="55%" align="left">
+      <h3>🚀 Hakkımda</h3>
+      <p>
+        Merhaba! Ben Kerim. Kendimi belirli bir teknolojiyle sınırlamayan, problemin ihtiyacına göre <b>en doğru aracı</b> kullanan bir mühendisim.
+      </p>
+      
+   👉 **Vizyonum:** Bir fikri alıp, veritabanı mimarisinden kullanıcı arayüzüne kadar (End-to-End) hayata geçirmek.
+   <br>
+   👉 **Yaklaşımım:** Dil veya framework fark etmeksizin, ölçeklenebilir ve temiz kod yazmak.
+   <br>
+   👉 **Süper Gücüm:** Hızlı adaptasyon. Yeni bir teknolojiyi öğrenip projeye entegre etmem günler değil, saatler sürer.
+    </td>
+    <td width="50%" align="center">
+      <!-- Hareketli Kodlama GIF'i -->
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
+    </td>
+  </tr>
+</table>
+</div>
+
+<h3 align="center">🛠️ Tech Arsenal</h3>
 
 <div align="center">
   
-  ### Backend
-  ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+  <img src="https://img.shields.io/badge/spring_boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white">
   
-  ### Frontend
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  <br/>
   
-  ### Databases
-  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+
+  <br/>
   
-  ### DevOps & Tools
-  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+  <!-- Cloud & DB -->
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white">
   
 </div>
 
----
-
-## 📊 GitHub Stats
+<br/>
+<br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kerimkulah&show_icons=true&locale=en&layout=compact&theme=react" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kerimkulah&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff&icon_color=36BCF7" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimkulah&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kerimkulah&theme=react" alt="GitHub Streak" />
-</div>
-
----
-
+<br/>
 
 <div align="center">
-  
-  ### 🌱 I'm currently learning ...
-  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-  ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-  ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-  
-</div>
-
-<div align="center">
-  
-  ### 👀 Profile views
-  <img src="https://komarev.com/ghpvc/?username=kerimkulah&style=flat-square&color=blue" alt="Profile views" />
-  
-</div>
-
-<div align="center">
-  <h3>📫 How to reach me</h3>
-  <p>
-    <!-- E-posta adresinizi buraya ekleyebilirsiniz -->
-    <a href="mailto:kerimkulah@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B42F4&height=100&section=footer"/>
 </div>
