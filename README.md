@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B42F4&height=260&section=header&text=Kerim%20Kulah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Engineer&descAlignY=60&descSize=25&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6B42F4&height=260&section=header&text=Kerim%20Kulah&fontSize=80&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=60&descSize=25&fontColor=ffffff"/>
 </div>
 
 <div align="center">
@@ -19,14 +19,14 @@
     <td width="55%" align="left">
       <h3>🚀 Hakkımda</h3>
       <p>
-        Merhaba! Ben Kerim. Kendimi belirli bir teknolojiyle sınırlamayan, problemin ihtiyacına göre <b>en doğru aracı</b> kullanan bir mühendisim.
+        Merhaba! Ben Kerim. Kendimi belirli bir teknolojiyle sınırlamayan, problemin ihtiyacına göre <b>en doğru aracı</b> kullanan bir yazılımcıyım.
       </p>
       
    👉 **Vizyonum:** Bir fikri alıp, veritabanı mimarisinden kullanıcı arayüzüne kadar (End-to-End) hayata geçirmek.
    <br>
    👉 **Yaklaşımım:** Dil veya framework fark etmeksizin, ölçeklenebilir ve temiz kod yazmak.
    <br>
-   👉 **Süper Gücüm:** Hızlı adaptasyon. Yeni bir teknolojiyi öğrenip projeye entegre etmem günler değil, saatler sürer.
+   👉 **Süper Gücüm:** Hızlı adaptasyon. Yeni teknolojilere kısa sürede adapte olup projeye verimli şekilde entegre edebilirim.
     </td>
     <td width="50%" align="center">
       <!-- Hareketli Kodlama GIF'i -->
