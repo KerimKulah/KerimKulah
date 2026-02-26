@@ -68,10 +68,6 @@
 <br/>
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kerimkulah&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" height="150" />
-</div>
-
 <br/>
 
 <div align="center">
