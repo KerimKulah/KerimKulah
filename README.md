@@ -15,7 +15,6 @@
 
 <div align="center">
 <table>
-```html
 <tr>
   <td width="55%" align="left">
     <h3>🚀 Hakkımda</h3>
@@ -46,7 +45,6 @@
     />
   </td>
 </tr>
-```
 
 </table>
 </div>
