@@ -15,24 +15,39 @@
 
 <div align="center">
 <table>
-  <tr>
-    <td width="55%" align="left">
-      <h3>🚀 Hakkımda</h3>
-      <p>
-        Merhaba! Ben Kerim. Kendimi belirli bir teknolojiyle sınırlamayan, problemin ihtiyacına göre <b>en doğru aracı</b> kullanan bir yazılımcıyım.
-      </p>
-      
-   👉 **Vizyonum:** Bir fikri alıp, veritabanı mimarisinden kullanıcı arayüzüne kadar (End-to-End) hayata geçirmek.
-   <br>
-   👉 **Yaklaşımım:** Dil veya framework fark etmeksizin, ölçeklenebilir ve temiz kod yazmak.
-   <br>
-   👉 **Süper Gücüm:** Hızlı adaptasyon. Yeni teknolojilere kısa sürede adapte olup projeye verimli şekilde entegre edebilirim.
-    </td>
-    <td width="50%" align="center">
-      <!-- Hareketli Kodlama GIF'i -->
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%"/>
-    </td>
-  </tr>
+```html
+<tr>
+  <td width="55%" align="left">
+    <h3>🚀 Hakkımda</h3>
+    <p>
+      Merhaba! Ben Kerim. Full-stack geliştirme alanında çalışıyor,
+      bir ürünün fikir aşamasından canlıya alınmasına kadar olan süreçte
+      aktif rol alıyorum.
+    </p>
+    <p>
+      Kendimi belirli bir dil veya framework ile sınırlamak yerine,
+      projenin ihtiyacına uygun teknolojileri kullanarak
+      <b>sürdürülebilir, ölçeklenebilir ve kullanışlı çözümler</b>
+      geliştirmeye odaklanıyorum.
+    </p>
+    🔹 Frontend, backend ve veritabanı süreçlerinde uçtan uca geliştirme
+    <br>
+    🔹 Yeni teknolojilere hızlı adaptasyon
+    <br>
+    🔹 Temiz ve sürdürülebilir kod
+    <br>
+    🔹 Gerçek problemlere odaklanan ürün geliştirme
+  </td>
+
+  <td width="50%" align="center">
+    <img
+      src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
+      width="100%"
+    />
+  </td>
+</tr>
+```
+
 </table>
 </div>
 
